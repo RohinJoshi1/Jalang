@@ -1,5 +1,6 @@
 
 ```markdown
+readme is AI generated, I'm too lazy to do it myself.
 # Scopes Programming Language
 
 Scopes is a simple, yet powerful programming language that emphasizes scope management and functional programming paradigms. It introduces concepts such as variable scoping, closures, and object-oriented programming with class inheritance.
